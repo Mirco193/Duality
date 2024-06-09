@@ -9,8 +9,8 @@ At character creation, players start with two Core Abilities, one from each of t
 
 - **Rage**: Unleash your fury to gain unmatched strength in battle.
 - **Instinct**: Trust in your primal instincts to embrace your inner beast.
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- **Ancestral Guidance**: Form a deep connection with the spirits of your ancestors, allowing you to channel their wisdom and strength.
+- **Earthshaker** Harness your tremendous strength to create powerful tremors that destabilize your enemies and interact with the environment.
 
 ## Talents
 In addition to Core Abilities, characters will have access to a variety of Talents that provide additional combat maneuvers, spells, and other useful bonuses.
