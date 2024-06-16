@@ -11,13 +11,19 @@ Gain a bonus to initiative checks. Additionally, when you hit a surprised creatu
 
 # 2. Gadgets
 ### Rank 1 (Novice): Gadgets 
-Gain access to a basic set of gadgets such as smoke bombs, grappling hooks, and caltrops. These gadgets can be used to gain strategic advantages in combat and exploration.
+Gain access to a basic set of three gadgets from the list below. These gadgets can be used to gain strategic advantages in combat and exploration.
 
 #### Rank 2a (Adept): Advanced Gadgets
-Upgrade existing gadgets to have additional features, such as smoke bombs that obscure vision longer or grappling hooks that can pull enemies.
+Upgrade existing gadgets to rank 2 to have additional features.
 
 #### Rank 2b (Adept): Expanded Arsenal
-Gain access to new types of gadgets, such as explosive charges, tripwires, and distraction devices.
+Gain access to two new gadgets and the ability to improvise gadgets using materials in the environment.
+
+#### Rank 3a (Master): Gadget Mastery 
+Further enhance your gadgets, making them even more effective. Upgrade them to rank 3.
+
+Rank 3b (Master): Tactical Deployment
+Gain the ability to deploy a gadget as a free action once per turn ▷. Also gain one more gadget from the list below (for a total of 6).
 
 ## List of Gadgets
 
@@ -88,8 +94,18 @@ You can apply poisons, drink potions and give them to another person as a free a
 #### Rank 2a (Adept): Specialized Poisons ➤
 Create and apply unique poisons, such as paralyzing poisons, hallucinogenic toxins, or slow-acting venoms. gas clouds that deal damage over time or that can obscure vision and impair enemies.
 
-#### Rank 2c (Adept): Herbal Remedies ➤
-Specialize in creating herbal remedies and antidotes that can cure status effects and provide temporary buffs. / alchemical fire, acid flasks, and healing potions.
+#### Rank 2c (Adept): Mutagens 
+An alchemist discovers how to create a mutagen that they can imbibe to heighten their physical prowess. The effect lasts for 10 minutes. It takes 1 hour to brew a dose of mutagen and it remains potent until used. An
+alchemist can only maintain one dose of mutagen at a time - if the alchemist brews a second dose, any existing mutagen becomes inert. Another person drinking the mutagen will not have its effects and is likely to throw up.
+
+Effects:
+You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d8 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose. Also, choose one of the following:
+- Bear's Endurance. You gain 2d6 temporary hit points, which are lost when the mutagen ends.
+- Bull's Strength. You have advantage on Strength checks, and your carrying capacity doubles.
+- Cat's Grace. You have advantage on Dexterity checks. You also don't take damage from falling 20 feet or less, as long as you are not incapacitated.
+
+#### Rank 3c (Master) Mutagens
+Increase the damage die of your unarmed attack from d8 to a d10. Also you don't have to choose the effect of your mutagen anymore but instead gain all 3 effects. 
 
 
 # 4. Cunning Action/Deft Maneuvers
