@@ -99,13 +99,13 @@ An alchemist discovers how to create a mutagen that they can imbibe to heighten 
 alchemist can only maintain one dose of mutagen at a time - if the alchemist brews a second dose, any existing mutagen becomes inert. Another person drinking the mutagen will not have its effects and is likely to throw up.
 
 Effects:
-You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d8 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose. Also, choose one of the following:
+You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d8 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose. You can also choose to add +1 damage to your existing unarmed attack damage instead (if you already have an unarmed damage die from a different feature). Also, choose one of the following:
 - Bear's Endurance. You gain 2d6 temporary hit points, which are lost when the mutagen ends.
 - Bull's Strength. You have advantage on Strength checks, and your carrying capacity doubles.
 - Cat's Grace. You have advantage on Dexterity checks. You also don't take damage from falling 20 feet or less, as long as you are not incapacitated.
 
 #### Rank 3c (Master) Mutagens
-Increase the damage die of your unarmed attack from d8 to a d10. Also you don't have to choose the effect of your mutagen anymore but instead gain all 3 effects. 
+Increase the damage die of your unarmed attack from d8 to a d10. That means, you can also choose to add +2 damage to your existing unarmed attack damage instead (if you already have an unarmed damage die from a different feature). Also you don't have to choose the effect of your mutagen anymore but instead gain all 3 effects. 
 
 
 # 4. Cunning Action/Deft Maneuvers
