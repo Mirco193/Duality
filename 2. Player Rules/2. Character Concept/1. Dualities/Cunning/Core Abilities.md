@@ -21,6 +21,7 @@ Gain access to new types of gadgets, such as explosive charges, tripwires, and d
 
 ## List of Gadgets
 
+
  <table>
   <tr>
     <th>Gadgets</th>
@@ -40,7 +41,8 @@ Gain access to new types of gadgets, such as explosive charges, tripwires, and d
     <td>include a mild irritant, causing enemies to cough</td>
     <td>The Smokebomb contains a flash component</td>
   </tr>
-     <tr>
+
+  <tr>
     <td>Nightvision Goggles</td>
     <td>See clearly in darkness</td>
     <td>Adjustable zoom feature for detailed observation of distant objects</td>
@@ -78,22 +80,17 @@ Gain access to new types of gadgets, such as explosive charges, tripwires, and d
   </tr>
 </table> 
 
-3. Poisoner
+# 3. Alchemist
 
-    Rank 1 (Novice): Poison Expertise ▷
-        Can apply poisons as a free action and gain a bonus to Medicine checks.
+### Rank 1 (Novice): Poison Expertise 
+You can apply poisons, drink potions and give them to another person as a free action ▷. You also gain a bonus to Medicine checks.
 
-    Rank 2a (Adept): Specialized Poisons ➤
-        Create and apply unique poisons not available to others, such as paralyzing poisons, hallucinogenic toxins, or slow-acting venoms.
+Rank 2a (Adept): Specialized Poisons ➤
+Create and apply unique poisons, such as paralyzing poisons, hallucinogenic toxins, or slow-acting venoms. gas clouds that deal damage over time or that can obscure vision and impair enemies.
 
-    Rank 2b (Adept): Alchemist ➤
-        Develop a range of alchemical solutions beyond poisons, such as alchemical fire, acid flasks, and healing potions.
+Rank 2c (Adept): Herbal Remedies ➤
+Specialize in creating herbal remedies and antidotes that can cure status effects and provide temporary buffs. / alchemical fire, acid flasks, and healing potions.
 
-    Rank 2c (Adept): Herbal Remedies ➤
-        Specialize in creating herbal remedies and antidotes that can cure status effects and provide temporary buffs.
-
-    Rank 2d (Adept): Chemical Warfare ➤
-        Develop area-of-effect chemicals, like gas clouds that deal damage over time or that can obscure vision and impair enemies.
 
 4. Cunning Action/Deft Maneuvers
 
