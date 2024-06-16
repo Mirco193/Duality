@@ -85,21 +85,21 @@ Gain access to new types of gadgets, such as explosive charges, tripwires, and d
 ### Rank 1 (Novice): Poison Expertise 
 You can apply poisons, drink potions and give them to another person as a free action ▷. You also gain a bonus to Medicine checks.
 
-Rank 2a (Adept): Specialized Poisons ➤
+#### Rank 2a (Adept): Specialized Poisons ➤
 Create and apply unique poisons, such as paralyzing poisons, hallucinogenic toxins, or slow-acting venoms. gas clouds that deal damage over time or that can obscure vision and impair enemies.
 
-Rank 2c (Adept): Herbal Remedies ➤
+#### Rank 2c (Adept): Herbal Remedies ➤
 Specialize in creating herbal remedies and antidotes that can cure status effects and provide temporary buffs. / alchemical fire, acid flasks, and healing potions.
 
 
-4. Cunning Action/Deft Maneuvers
+# 4. Cunning Action/Deft Maneuvers
 
-    Rank 1 (Novice): Cunning Action ▷
-        You can use Dash, Hide, or Disengage as a free action once per turn.
+### Rank 1 (Novice): Cunning Action ▷
+You can use Dash, Hide, or Disengage as a free action once per turn.
 
-    Rank 2a (Adept): Shadow Step ➤
-        You can use one action to teleport from one shadow to another within a 30-foot range.
+#### Rank 2a (Adept): Shadow Step ➤
+You can use one action to teleport from one shadow to another within a 30-foot range.
 
-    Rank 2b (Adept): Evasion ➤
-        When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed and only half damage if you fail.
+#### Rank 2b (Adept): Evasion ➤
+When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed and only half damage if you fail.
 
