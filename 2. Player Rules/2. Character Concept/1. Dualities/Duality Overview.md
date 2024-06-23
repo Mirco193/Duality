@@ -59,6 +59,18 @@
 - *(Additional Core Ability to be determined)*
 - *(Additional Core Ability to be determined)*
 
+## Mind
+
+**Harness the power of the mind. Channel your inner strength into physical might or transcend the material with psychic grace.**
+
+`primary Attribute: Wisdom (WIS)`
+
+### Core Abilities
+- *(Additional Core Ability to be determined)*
+- *(Additional Core Ability to be determined)*
+- *(Additional Core Ability to be determined)*
+- *(Additional Core Ability to be determined)*
+
 ## Nature
 
 **Call upon the spirits of the wild. Shape the elements, commune with beasts, and transform into nature’s avatars.**
@@ -88,18 +100,6 @@
 **Weave the fabric of reality with arcane words. Bend the elements to your will and craft illusions or magical artifacts that dazzle and bewitch.**
 
 `primary Attribute: Intelligence (INT)`
-
-### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-
-## Spirit
-
-**Harness the power of the mind. Channel your inner strength into physical might or transcend the material with psychic grace.**
-
-`primary Attribute: Wisdom (WIS)`
 
 ### Core Abilities
 - *(Additional Core Ability to be determined)*
