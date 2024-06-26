@@ -27,7 +27,7 @@ You tap into the wellspring of primal energy that lies dormant within you. You a
 
 **Rank 1: Ancestral Guidance**
 You form a deep connection with the spirits of your ancestors, allowing you to channel their wisdom and strength.
-- Guided Actions: ▷ [2] <br> You can call upon an ancestor to assist you in a skill check, granting you +WIS on the roll. This can apply to any skill, such as Perception, Medicine, or Persuasion. You must use this feature before rolling the skill check.
+- Guided Actions: ▷ [2] <br> You can call upon an ancestor to assist you in a skill check, granting you +[WIS] on the roll. This can apply to any skill, such as Perception, Medicine, or Persuasion. You must use this feature before rolling the skill check.
 - Spiritual Consultation: Once per session, you can commune with an ancestral spirit to seek guidance. This can take the form of asking questions, seeking advice, or gaining insights into the past or future. The GM provides information or hints relevant to your current situation.
 
 **Rank 2: Totems**:
@@ -45,7 +45,7 @@ You form a deep connection with the spirits of your ancestors, allowing you to c
 **Rank 1: Earthshaker:**
 Harness your tremendous strength to create powerful tremors that destabilize your enemies and interact with the environment.
 
-- Tremor Strike: ➤ [3] You can strike the ground with immense force, causing a localized tremor. Enemies within a 10-foot radius must make a [DEX]+[Body Control] check or be knocked prone and take minor bludgeoning damage. Y
+- Tremor Strike: ➤ [3] You can strike the ground with immense force, causing a localized tremor. Make a [STR]+[Melee] check for every enemy within a 10-foot radius against their [DEX]+[Body Control]+[10]. On a success, the enemies are knocked prone and take 1d10+[STR] bludgeoning damage. 
 - You can use Tremor Strike to create minor seismic disturbances that can crack open locked chests, break down weakened doors, or create small fissures in the ground to find water or disrupt traps.
 
 **Rank 2: Path of a Titan**:
