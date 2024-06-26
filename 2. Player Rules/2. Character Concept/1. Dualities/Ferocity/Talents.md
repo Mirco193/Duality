@@ -4,6 +4,8 @@
 - #### Feral Proficiency
   Gain proficiency with Martial Weapons.
 
+  --> Dual Wield 2h Weapons? Dual wield in general?
+
 - #### Unarmored Defense
   Your natural resilience makes armor unnecessary.
   While not wearing armor, get an Armor Value of 1d6.
