@@ -28,3 +28,50 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 | Careful Spell    | Select up to [INT] modifier creatures to automatically succeed on the spell's saving throw.      | +1          |
 | Seeking Spell    | Reroll a spell attack roll. You must use the new roll.                                           | +2          |
 | Twin Spell       | Target a second creature within range with a single-target spell.                                | +2          |
+
+
+
+Core Ability 2: Elemental Mastery
+Rank 1: Elemental Mastery
+
+    Description: Gain the ability to cast spells. [INT] is the attribute for casting spells. Choose a favorite element (Fire, Cold, Lightning). Gain a bonus based on the chosen element:
+        Fire: +1d6 fire damage on spell attacks.
+        Cold: +1d6 cold damage on spell attacks.
+        Lightning: +1d6 lightning damage on spell attacks.
+
+Rank 2 A: Elemental Infusion
+
+    Description: Integrate your elemental power into your melee or ranged attacks. Add the chosen element’s bonus damage to your melee or ranged weapon attacks.
+
+Rank 3 A: Elemental Wrath
+
+    Description: Once per turn, unleash a powerful elemental attack in melee or ranged combat. Deal an additional 3d6 elemental damage of your chosen type.
+
+Rank 2 B: Elemental Resilience
+
+    Description: Gain resistance to the damage type of your chosen element (Fire, Cold, Lightning).
+
+Rank 3 B: Elemental Mastery
+
+    Description: Your control over your chosen element is unmatched. You can now change the damage type of any spell to your chosen element, adding an extra 1d6 damage of that type.
+
+    Core Ability 3: Artificer
+Rank 1: Artificer
+
+    Description: Gain the ability to cast spells. [INT] is the attribute for casting spells. You can infuse items to create magical effects. Gain a bonus to crafting checks.
+
+Rank 2 A: Mechanical Minion
+
+    Description: Create a mechanical minion to aid you in combat. The minion acts on your turn and has stats based on your [INT] modifier.
+
+Rank 3 A: Master Artificer
+
+    Description: Your mechanical minion gains additional abilities and can now cast spells.
+
+Rank 2 B: Arcane Armaments
+
+    Description: Infuse your armor or weapon with magical properties. Gain a bonus to attack rolls or AC.
+
+Rank 3 B: Arcane Arsenal
+
+    Description: Create a powerful piece of magical equipment (e.g., a gun, an enhanced armor) that grants additional abilities or bonuses in combat.
