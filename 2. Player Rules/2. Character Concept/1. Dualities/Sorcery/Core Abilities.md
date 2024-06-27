@@ -30,6 +30,61 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 | Twin Spell       | Target a second creature within range with a single-target spell.                                | +2          |
 
 
+### Rank 1: Arcane Combatant
+
+- **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
+- **Arcane Weapon**: As a free action ▷, you can infuse your weapon with arcane energy for 1 minute. While infused, your weapon attacks deal an additional 1d4 arcane damage.
+
+#### Rank 2: Arcane Blade
+
+- **Arcane Strikes**: You can use your [INT] modifier instead of [STR] or [DEX] for melee weapon attack and damage rolls.
+- **War Magic**: Once per turn, when you cast a cantrip, you can make one weapon attack as a free action ▷.
+
+#### Rank 3: Arcane Master
+
+- **Arcane Mastery**: Your Arcane Strikes now deal additional damage equal to [INT].
+- **Enhanced War Magic**: Once per turn, when you cast a spell, you can make one weapon attack as a free action ▷. You cannot use Rank 2's feature War Magic and Enhanced War Magic on the same turn.
+
+#### Rank 2: Arcane Shield [2]
+
+- **Protective Ward**: Reaction [2] | Self \
+  When you are hit by an attack, you can expend Energy to create a magical barrier. Reduce the damage by an amount equal to your [INT] + your level.
+
+- **Arcane Bulwark**: ➤ [3] | 30 feet \
+  You can create a shield of temporary hitpoints equal to your [INT] + your level. This shield lasts for 1 minute or until depleted. Only one Arcane Bulwark can be active at the same time.
+
+#### Rank 3: Arcane Guardian
+
+- **Enhanced Ward**: Your Protective Ward can now create a barrier around allies as well.
+- **Bulwark Burst**: When the Arcane Bulwark is depleted by an attack, it releases a burst of energy. Each creature within 10 feet of the shield takes your [INT] in arcane damage. Additionally, allies affected by the burst gain temporary hitpoints equal to your [INT].
+
+
+
+### Rank 1: Arcane Combatant
+
+- Spellcasting: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
+- Arcane Weapon: As a free action ▷, you can infuse your weapon with arcane energy for 1 minute. While infused, your weapon attacks deal an additional 1d4 arcane damage.
+
+#### Rank 2: Arcane Blade 
+
+- Arcane Strikes: You can use your [INT] modifier instead of [STR] or [DEX] for melee weapon attack and damage rolls.
+- War Magic: Once per turn, when you cast a cantrip, you can make one weapon attack as a free action ▷. 
+
+#### Rank 3: (please find a name)
+- Arcane Mastery: Your Arcane Strike now deals additional damage equal to [INT].
+- Enhanced War Magic: Once per turn, when you cast a Spell, you can make one weapon attack as a free action ▷. You cannot use Rank 2's feature War Magic and Enhanced War Magic on the same turn.
+
+#### Rank 2: Arcane Shield [2]
+- Protective Ward: Reaction [2] | Self
+  When you are hit by an attack, you can expend Energy to create a magical barrier. Reduce the damage by an amount equal to your [INT] + your level.
+
+- Arcane Bulwark: ➤ [3] | 30 feet:
+  You can create a shield of temporary hitpoints equal to your [INT] + your level. This shield lasts for 1 minute or until depleted. Only one Arcane Bulwark can be active at the same time.
+
+#### Rank 3: Arcane Guardian
+- Enhanced Ward: Your Protective Ward can now create a barrier around allies as well.
+- Bulwark Burst: When the Arcane Bulwark is depleted by an attack, it releases a burst of energy. Each creature within 10 feet of the shield takes your [INT] in arcane damage. Additionally, allies affected by the burst gain temporary hitpoints equal to your [INT].
+
 
 Core Ability 2: Elemental Mastery
 Rank 1: Elemental Mastery
