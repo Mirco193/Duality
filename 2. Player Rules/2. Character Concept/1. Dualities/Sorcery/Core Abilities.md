@@ -30,6 +30,8 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 | Twin Spell       | Target a second creature within range with a single-target spell.                                | +2          |
 
 
+## Arcane Warrior
+
 ### Rank 1: Arcane Combatant
 
 - **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
