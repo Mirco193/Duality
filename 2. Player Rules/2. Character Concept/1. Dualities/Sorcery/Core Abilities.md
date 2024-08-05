@@ -37,17 +37,17 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 - **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
 - **Arcane Weapon**: As a free action ▷, you can infuse your weapon with arcane energy for 1 minute. While infused, your weapon attacks deal an additional 1d4 arcane damage.
 
-#### Rank 2: Arcane Blade
+#### Rank 2A: Arcane Blade
 
 - **Arcane Strikes**: You can use your [INT] modifier instead of [STR] or [DEX] for melee weapon attack and damage rolls.
 - **War Magic**: Once per turn, when you cast a cantrip, you can make one weapon attack as a free action ▷.
 
-#### Rank 3: Arcane Master
+#### Rank 3A: Arcane Master
 
 - **Arcane Mastery**: Your Arcane Strikes now deal additional damage equal to [INT].
 - **Enhanced War Magic**: Once per turn, when you cast a spell, you can make one weapon attack as a free action ▷. You cannot use Rank 2's feature War Magic and Enhanced War Magic on the same turn.
 
-#### Rank 2: Arcane Shield [2]
+#### Rank 2B: Arcane Shield [2]
 
 - **Protective Ward**: Reaction [2] | Self \
   When you are hit by an attack, you can expend Energy to create a magical barrier. Reduce the damage by an amount equal to your [INT] + your level.
@@ -55,7 +55,7 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 - **Arcane Bulwark**: ➤ [3] | 30 feet \
   You can create a shield of temporary hitpoints equal to your [INT] + your level. This shield lasts for 1 minute or until depleted. Only one Arcane Bulwark can be active at the same time.
 
-#### Rank 3: Arcane Guardian
+#### Rank 3B: Arcane Guardian
 
 - **Enhanced Ward**: Your Protective Ward can now create a barrier around allies within 30 feet range as well.
 - **Bulwark Burst**: When the Arcane Bulwark is depleted by an attack, it releases a burst of energy. Each enemy within 15 feet of the shield takes your [INT] in arcane damage. Additionally, allies within the range of the burst gain temporary hitpoints equal to your [INT].
@@ -63,6 +63,67 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 -------
 
 ## Wild Magic
+
+Rank 1: Wild Magic Surge
+•	Feature: Each time you cast a spell, roll a 2d10. If you rolled doubles, a Wild Magic Surge occurs, causing a random magical effect from the Wild Magic table.
+•	Spellcasting: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules. If you already got this feature from another core ability, select 
+•	Mana Surge: Whenever a Wild Magic Surge occurs, gain back [INT] Energy (minimun of 1).
+
+Rank 2A: Unleashed Chaos
+•	Controlled Chaos: Once per long rest, you can choose to roll on the Wild Magic table as a free action ▷ without the need of casting a spell. 
+•	Surge Mastery: Gain advantage on saving throws against your own Wild Magic Surges.
+
+Rank 3A: Master of Chaos
+Unleash Chaos: Once per long rest, cast a spell without expending Energy, but trigger a random magical effect.
+Chaos Burst: When you trigger Wild Magic Surge, deal arcane damage equal to your level to all enemies within 10 feet.
+
+Rank 2B: Controlled Chaos
+•	Surge Control: You can choose to reroll on the Wild Magic table and pick either result. You can use this feature a number of times equal to your [INT] per long rest.
+•	
+
+Rank 3B: Master of Chaos
+•	Harness Chaos: Gain a bonus to your spell attack rolls and spell save DC equal to half your [INT] modifier when under the effects of Chaotic Magic.
+•	Chaos Burst: When you trigger Chaotic Magic, deal arcane damage equal to your level to all enemies within 10 feet.
+
+
+•	Empowered Surges: Your Wild Magic Surges are more potent. Whenever you roll on the Wild Magic table, you can add your [INT] modifier to the effect's potency (e.g., increased damage, extended duration).
+•	Chaos Conduit: You can harness the chaotic energy around you. As a free action ▷, you can choose to trigger a Wild Magic Surge and gain temporary hit points equal to your level.
+
+
+
+------
+Wild Magic
+Core Concept: Harnessing chaotic and unpredictable magical effects that can either greatly benefit or hinder the caster and those around them.
+Rank 1: Wild Magic Surge
+•	Feature: Each time you cast a spell, roll a 2d10. If you rolled doubles, a Wild Magic Surge occurs, causing a random magical effect from the Wild Magic table.
+•	Spellcasting: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
+•	Surge Control: Once per long rest, you can choose to reroll on the Wild Magic table and pick either result.
+Rank 2: Unleashed Chaos
+•	Controlled Chaos: Once per long rest, you can choose to roll on the Wild Magic table without rolling a d20 first. This can be used to turn the tide in dire situations.
+•	Surge Mastery: Gain advantage on saving throws against your own Wild Magic Surges.
+Rank 3: Master of Chaos
+•	Empowered Surges: Your Wild Magic Surges are more potent. Whenever you roll on the Wild Magic table, you can add your [INT] modifier to the effect's potency (e.g., increased damage, extended duration).
+•	Chaos Conduit: You can harness the chaotic energy around you. As a free action ▷, you can choose to trigger a Wild Magic Surge and gain temporary hit points equal to your level.
+Rank 2A: Controlled Chaos
+•	Chaotic Energy: Once per short rest, reroll the d20 for Chaotic Magic.
+•	Unleash Chaos: Once per long rest, cast a spell without expending Energy, but trigger a random magical effect.
+Rank 3A: Master of Chaos
+•	Harness Chaos: Gain a bonus to your spell attack rolls and spell save DC equal to half your [INT] modifier when under the effects of Chaotic Magic.
+•	Chaos Burst: When you trigger Chaotic Magic, deal arcane damage equal to your level to all enemies within 10 feet.
+Rank 1: Spellmaster
+•	Spellcasting: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
+•	Spell Efficiency: Reduce the Energy cost of spells by 1 (minimum 1).
+Rank 2A: Rapid Caster
+•	Quick Spell: You can cast a cantrip as a free action once per turn.
+•	Efficient Casting: Once per short rest, cast a spell without expending Energy.
+Rank 3A: Master of Magic
+•	Spell Recharge: Once per day, regain half of your maximum Energy points.
+•	Superior Efficiency: Reduce the Energy cost of spells by an additional 1 (minimum 1).
+Rank 2B: Spell Augmenter
+•	Enhanced Cantrip: Your cantrips deal additional damage equal to your [INT] modifier.
+Rank 3B: Archmage
+•	Dual Casting: Once per day, cast two spells simultaneously, as long as their combined Energy cost does not exceed your maximum Energy.
+----
 
 ### Rank 1: Arcane Combatant
 
