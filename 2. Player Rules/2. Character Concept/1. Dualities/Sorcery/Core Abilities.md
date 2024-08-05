@@ -57,10 +57,12 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 
 #### Rank 3: Arcane Guardian
 
-- **Enhanced Ward**: Your Protective Ward can now create a barrier around allies as well.
-- **Bulwark Burst**: When the Arcane Bulwark is depleted by an attack, it releases a burst of energy. Each creature within 10 feet of the shield takes your [INT] in arcane damage. Additionally, allies affected by the burst gain temporary hitpoints equal to your [INT].
+- **Enhanced Ward**: Your Protective Ward can now create a barrier around allies within 30 feet range as well.
+- **Bulwark Burst**: When the Arcane Bulwark is depleted by an attack, it releases a burst of energy. Each enemy within 15 feet of the shield takes your [INT] in arcane damage. Additionally, allies within the range of the burst gain temporary hitpoints equal to your [INT].
 
+-------
 
+## Wild Magic
 
 ### Rank 1: Arcane Combatant
 
