@@ -64,30 +64,31 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 
 ## Wild Magic
 
-Rank 1: Wild Magic Surge
-•	Feature: Each time you cast a spell, roll a 2d10. If you rolled doubles, a Wild Magic Surge occurs, causing a random magical effect from the Wild Magic table.
-•	Spellcasting: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules. If you already got this feature from another core ability, select 
-•	Mana Surge: Whenever a Wild Magic Surge occurs, gain back [INT] Energy (minimun of 1).
+### Rank 1: Wild Magic Surge
+- **Feature**: Each time you cast a spell, roll a 2d10. If you roll doubles, a Wild Magic Surge occurs, causing a random magical effect from the Wild Magic table.
+- **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules. Also, gain access to two spells from the sorcery duality.
+- **Mana Surge**: Whenever a Wild Magic Surge occurs, gain back [INT] Energy (minimum of 1).
 
-Rank 2A: Unleashed Chaos
-•	Controlled Chaos: Once per long rest, you can choose to roll on the Wild Magic table as a free action ▷ without the need of casting a spell. 
-•	Surge Mastery: Gain advantage on saving throws against your own Wild Magic Surges.
+### Rank 2A: Unleashed Chaos
+- **Feature**: Instead of rolling 2d10 for your Wild Magic Surge, roll 3d10. If you roll doubles, a Wild Magic Surge occurs. If you roll triples, two surges occur.
+- **Chaos Shield**: Each time a Wild Magic Surge occurs, gain temporary hitpoints equal to your level.
+- **Additional Spell**: Gain a spell from the sorcery duality.
 
-Rank 3A: Master of Chaos
-Unleash Chaos: Once per long rest, cast a spell without expending Energy, but trigger a random magical effect.
-Chaos Burst: When you trigger Wild Magic Surge, deal arcane damage equal to your level to all enemies within 10 feet.
+### Rank 3A: Master of Chaos
+- **Chaos Burst**: When you trigger Wild Magic Surge, deal arcane damage equal to your level to all enemies within 15 feet.
+- **Chaos Ward**: Allies don't take any damage from your Wild Magic Surges.
+- **Additional Spell**: Gain a spell from the sorcery duality.
 
-Rank 2B: Controlled Chaos
-•	Surge Control: You can choose to reroll on the Wild Magic table and pick either result. You can use this feature a number of times equal to your [INT] per long rest.
-•	
+### Rank 2B: Controlled Chaos
+- **Controlled Chaos**: Twice per long rest, you can choose to roll on the Wild Magic table as a free action ▷ without the need of casting a spell.
+- **Surge Control**: You can choose to reroll on the Wild Magic table and pick either result. You can use this feature twice per long rest.
+- **Additional Spell**: Gain a spell from the sorcery duality.
 
-Rank 3B: Master of Chaos
-•	Harness Chaos: Gain a bonus to your spell attack rolls and spell save DC equal to half your [INT] modifier when under the effects of Chaotic Magic.
-•	Chaos Burst: When you trigger Chaotic Magic, deal arcane damage equal to your level to all enemies within 10 feet.
+### Rank 3B: Chaos Conductor
+- **Harness Chaos**: Gain a bonus to your spell attack rolls and your spell damage rolls equal to half your [INT] modifier (rounded down) when under the effects of Chaotic Magic.
+- **Chaos Conduit**: When you take damage, you can choose to trigger a Wild Magic Surge as a reaction. You can use this feature once per long rest.
+- **Additional Spell**: Gain a spell from the sorcery duality.
 
-
-•	Empowered Surges: Your Wild Magic Surges are more potent. Whenever you roll on the Wild Magic table, you can add your [INT] modifier to the effect's potency (e.g., increased damage, extended duration).
-•	Chaos Conduit: You can harness the chaotic energy around you. As a free action ▷, you can choose to trigger a Wild Magic Surge and gain temporary hit points equal to your level.
 
 
 
