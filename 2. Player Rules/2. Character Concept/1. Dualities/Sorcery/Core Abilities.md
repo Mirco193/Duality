@@ -34,7 +34,7 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 
 ### Rank 1: Arcane Combatant
 
-- **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
+- **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules. Also, gain access to two spells from the sorcery duality.
 - **Arcane Weapon**: As a free action ▷, you can infuse your weapon with arcane energy for 1 minute. While infused, your weapon attacks deal an additional 1d4 arcane damage.
 
 #### Rank 2A: Arcane Blade
@@ -89,28 +89,38 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 - **Chaos Conduit**: When you take damage, you can choose to trigger a Wild Magic Surge as a reaction. You can use this feature once per long rest.
 - **Additional Spell**: Gain a spell from the sorcery duality.
 
+-------
+
+## Core Ability: Arcane Manipulator
+
+### Rank 1: Arcane Manipulation
+- **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules. Also, gain access to two spells from the sorcery duality.
+- **Time Warp**: As a free action ▷, you can manipulate the flow of time around you for 1 minute. During this time, you can take an additional free action ▷ on each of your turns.
+
+### Rank 2A: Illusion Mastery
+- **Misdirection**: Reaction [4] | Self  
+  When you are attacked, you can use your reaction to create an illusory duplicate of yourself, granting yourself advantage to your defending roll.
+- **Improved Illusions**: Your illusion spells cost 2 less Energy to cast and last twice as long.
+
+### Rank 3A: Master Trickster
+- **Counterspell**: Once per long rest, when a creature within 120 feet casts a spell, you can automatically interrupt the spell, causing it to fail.
+- **Illusory Reality**: Once per long rest, you can make one of your illusions partially real for 1 minute. It can interact with the environment and cause minor physical effects (e.g., an illusory bridge can be walked on).
+
+### Rank 2B: Time Manipulation
+- **Temporal Slip**: Free Action | Self  
+  Once per long rest, you can rewind time for yourself. As a free action, you can set your HP and Energy to the values at the end of your last turn.
+- **Haste**: ➤ [4] | 30 feet  
+  Choose an ally within range. They gain an additional action on their turn and their movement speed is doubled for 1 minute. This can be used once per long rest.
+
+### Rank 3B: Chrono Master
+- **Time Stop**: ➤ [5] | Self  
+  For the next round, you can take two full turns back-to-back, while all other creatures are frozen in time. This can be used once per long rest.
+- **Temporal Precision**: Gain a +1 bonus to all spell attack rolls and a +1 bonus to your AC.
+
+----
 
 
 
-------
-Wild Magic
-Core Concept: Harnessing chaotic and unpredictable magical effects that can either greatly benefit or hinder the caster and those around them.
-Rank 1: Wild Magic Surge
-•	Feature: Each time you cast a spell, roll a 2d10. If you rolled doubles, a Wild Magic Surge occurs, causing a random magical effect from the Wild Magic table.
-•	Spellcasting: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
-•	Surge Control: Once per long rest, you can choose to reroll on the Wild Magic table and pick either result.
-Rank 2: Unleashed Chaos
-•	Controlled Chaos: Once per long rest, you can choose to roll on the Wild Magic table without rolling a d20 first. This can be used to turn the tide in dire situations.
-•	Surge Mastery: Gain advantage on saving throws against your own Wild Magic Surges.
-Rank 3: Master of Chaos
-•	Empowered Surges: Your Wild Magic Surges are more potent. Whenever you roll on the Wild Magic table, you can add your [INT] modifier to the effect's potency (e.g., increased damage, extended duration).
-•	Chaos Conduit: You can harness the chaotic energy around you. As a free action ▷, you can choose to trigger a Wild Magic Surge and gain temporary hit points equal to your level.
-Rank 2A: Controlled Chaos
-•	Chaotic Energy: Once per short rest, reroll the d20 for Chaotic Magic.
-•	Unleash Chaos: Once per long rest, cast a spell without expending Energy, but trigger a random magical effect.
-Rank 3A: Master of Chaos
-•	Harness Chaos: Gain a bonus to your spell attack rolls and spell save DC equal to half your [INT] modifier when under the effects of Chaotic Magic.
-•	Chaos Burst: When you trigger Chaotic Magic, deal arcane damage equal to your level to all enemies within 10 feet.
 Rank 1: Spellmaster
 •	Spellcasting: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules.
 •	Spell Efficiency: Reduce the Energy cost of spells by 1 (minimum 1).
