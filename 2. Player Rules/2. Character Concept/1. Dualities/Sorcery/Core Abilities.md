@@ -31,23 +31,27 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 
 
 ## Arcane Warrior
+Suggestion:
+Spellsword / Battlemage Rank 2
+
+for Batttlemage: You can use your Arcane Weapon feature on your Armor AND your Weapon. While infused, your armor blocks an additional 1d4 damage.
 
 ### Rank 1: Arcane Combatant
 
 - **Spellcasting**: Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules. Also, gain access to two spells from the sorcery duality.
 - **Arcane Weapon**: As a free action ▷, you can infuse your weapon with arcane energy for 1 minute. While infused, your weapon attacks deal an additional 1d4 arcane damage.
 
-#### Rank 2A: Arcane Blade
+#### Rank 2A: Spellsword
 
 - **Arcane Strikes**: You can use your [INT] modifier instead of [STR] or [DEX] for melee weapon attack and damage rolls.
-- **War Magic**: Once per turn, when you cast a cantrip, you can make one weapon attack as a free action ▷.
+- **Spell Weaving**: Once per turn, when you cast a cantrip, you can make one weapon attack as a free action ▷.
 
-#### Rank 3A: Arcane Master
+#### Rank 3A: Arcane Blade
 
 - **Arcane Mastery**: Your Arcane Strikes now deal additional damage equal to [INT].
-- **Enhanced War Magic**: Once per turn, when you cast a spell, you can make one weapon attack as a free action ▷. You cannot use Rank 2's feature War Magic and Enhanced War Magic on the same turn.
+- **Eldritch Strike**: You learn how to make your weapon strikes undercut a creature's ability to resist your spells. When you hit a creature with a weapon attack, you gain advantage on your next Spell Attack against the same creature before the end of your next turn.
 
-#### Rank 2B: Arcane Shield [2]
+#### Rank 2B: Battlemage [2]
 
 - **Protective Ward**: Reaction [2] | Self \
   When you are hit by an attack, you can expend Energy to create a magical barrier. Reduce the damage by an amount equal to your [INT] + your level.
@@ -55,7 +59,7 @@ Meta Magic: Choose two Meta Magic options from the Meta Magic table. Using Meta 
 - **Arcane Bulwark**: ➤ [3] | 30 feet \
   You can create a shield of temporary hitpoints equal to your [INT] + your level. This shield lasts for 1 minute or until depleted. Only one Arcane Bulwark can be active at the same time.
 
-#### Rank 3B: Arcane Guardian
+#### Rank 3B: Arcane Shield
 
 - **Enhanced Ward**: Your Protective Ward can now create a barrier around allies within 30 feet range as well.
 - **Bulwark Burst**: When the Arcane Bulwark is depleted by an attack, it releases a burst of energy. Each enemy within 15 feet of the shield takes your [INT] in arcane damage. Additionally, allies within the range of the burst gain temporary hitpoints equal to your [INT].
