@@ -87,7 +87,7 @@ You can make an illusion partially real. You create the image of an object, a cr
 ### Rank 2B: Time Manipulation
 - **Temporal Slip**: Free Action | Self  
   Once per long rest, you can rewind time for yourself. As a free action, you can set your HP and Energy to the values at the end of your last turn.
-- **Haste**: ➤ [4] | 30 feet  
+remove it, too strong - **Haste**: ➤ [4] | 30 feet  
   Choose an ally within range. They gain an additional action on their turn and their movement speed is doubled for 1 minute. This can be used once per long rest.
 
 ### Rank 3B: Chrono Master
