@@ -10,21 +10,21 @@
 #### Rank 2A: Spellsword
 
 - **Arcane Strikes**: You can use your [INT] modifier instead of [STR] or [DEX] for melee weapon attack and damage rolls.
-- **Spell Weaving**: Once per turn, when you cast a cantrip, you can make one weapon attack as a free action ▷.
+- **Spell Weaving**: Once per turn, when you use an action to cast a cantrip, you can make one weapon attack as a free action ▷.
 - **Additional Spell**: Gain a spell from the sorcery duality.
-- 
+ 
 #### Rank 3A: Arcane Blade
 
 - **Arcane Mastery**: Your Arcane Strikes now deal additional damage equal to [INT].
 - **Eldritch Strike**: You learn how to make your weapon strikes undercut a creature's ability to resist your spells. When you hit a creature with a weapon attack, you gain advantage on your next Spell Attack against the same creature before the end of your next turn.
 - **Additional Spell**: Gain a spell from the sorcery duality.
-- 
+ 
 #### Rank 2B: Battlemage 
 - **Arcane Infusion**: You may use your Arcane Weapon feature on your Armor instead of your Weapon. While infused, your armor blocks an additional 1d4 damage.
 - **Protective Ward**: Action | Self  
   As an action, you can create a protective barrier around yourself. This barrier absorbs the next instance of damage, and when it breaks, it releases a shockwave, dealing arcane damage equal to your [INT] modifier to all enemies within 10 feet. The ward lasts for 1 minute or until it absorbs damage. You can use this feature twice per long rest.
 - **Additional Spell**: Gain a spell from the sorcery duality.
-- 
+  
 #### Rank 3B: Arcane Sentinel 
 - **Battle Aura**: You and friendly creatures within 10 feet of you have resistance to damage from spells.
 - **Spell Guard**: [1] | Self  
