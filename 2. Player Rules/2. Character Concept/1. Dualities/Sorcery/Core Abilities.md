@@ -63,6 +63,33 @@ After a Wild Magic Surge occurs, you can choose to echo the surge, causing the s
 
 -------
 
+## Arcane Adept
+
+### Rank 1: Arcane Adept
+- **Spellcasting:** Gain the ability to cast spells. Your spellcasting attribute is [INT]. Refer to the spellcasting rules. You also gain access to two spells from the Sorcery duality.  
+- **More Spells:** Additionally, choose two additional Sorcery spells or spells from other dualities that you have unlocked the ability to cast spells from.  
+- **Efficient Casting:** All your spells cost 1 less Energy (minimum of 1).
+
+### Rank 2A: Magic Savant
+- **Enhanced Cantrip:** Your cantrips deal additional damage equal to your [INT] modifier. Damage from cantrips ignores resistances and treats immunity as resistance.  
+- **Additional Spell:** Gain a spell from the Sorcery duality.
+
+### Rank 3A: Spellstorm
+- **Overloaded Casting:** ▷ [2] When you roll damage for a spell, you can reroll any of the damage dice. You must use the new rolls.  
+- **Dual Casting:** Twice per long rest, you can cast two spells at once as long as one of them is a cantrip.  
+- **Additional Spell:** Gain a spell from the Sorcery duality.
+
+### Rank 2B: Scholar
+- **Arcane Mastery:** Channeling a spell does not increase its Energy cost. Also, while channeling a spell, you can Stride as a free action ▷.  
+- **Energy Reserve:** You gain additional Energy equal to half your Intelligence Score (rounded up).  
+- **Additional Spell:** Gain a spell from the Sorcery duality.
+
+### Rank 3B: Archmage's Insight
+- **Spellcraft Expertise:** Once per long rest, when you cast a spell, you can choose to make it uncounterable. 
+- **Expanded Arcana:** You gain access to two additional spells from any duality you have unlocked.
+
+
+
 ## Core Ability: Magic Manipulator
 
 ### Rank 1: Arcane Manipulation
