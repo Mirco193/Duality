@@ -3,61 +3,122 @@
   - Cunning
   - Ferocity
   - Fortune
+  - Grave
+  - Mind
   - Nature
-  - Necromancy
   - Sorcery
-  - Spirit
   - Tracking
   - Valor
 
 ## Covenant
-
-
-
-**Forge a pact with powers beyond. Whether through devotion or dark bargains, wield divine energies to smite and sanctify.**
-
 `primary Attribute: Charisma (CHA)`
 
+### Classes:
+- *Crusader*
+- *Priest*
+
+### Crusader:
+**Thementext**
+
+#### Core Abilities:
+- *Divine Smite*
+- *Sacred Oath*
+
+### Priest:
+**Forge a pact with powers beyond. Wield divine energies whether through devotion or dark bargains.**
+
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Divine Channeling*
+- *Gift of Faith/Patron*
+
 
 ## Cunning
-**Shadows are your canvas, and silence is your ally. Strike with precision and outwit your foes with a clever mind.**
-
 `primary Attribute: Dexterity (DEX)`
 
+### Classes:
+- *Rogue*
+- *Inventor*
+
+### Rogue:
+**Shadows are your canvas, and silence is your ally. Strike with precision and outwit your foes with a clever mind.**
+
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Sneak Attack*
+- *Fast Actions*
+
+### Inventor:
+**Thementext**
+
+### Core Abilities
+- *Gadgets*
+- *Alchemical Prowess*
 
 ## Ferocity
-
-**Unleash the primal force within. Embrace the rage that fuels your strength and let your instincts lead you to victory.**
-
 `primary Attribute: Strength (STR)`
 
+### Classes:
+- *Barbarian*
+- *Primalist*
+
+### Barbarian:
+**Unleash the primal force within. Embrace the rage that fuels your strength and let your instincts lead you to victory.**
+
 ### Core Abilities
-- **Rage**: Unleash your fury to gain unmatched strength in battle.
-- **Instinct**: Trust in your primal instincts to embrace your inner beast.
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Rage*: Unleash your fury to gain unmatched strength in battle.
+- *Instinct*: Trust in your primal instincts to embrace your inner beast.
+
+### Primalist:
+**Thementext**
+
+### Core Abilities
+- *Ancestral Aid* 
+- *Earthshaker*: 
 
 ## Fortune
-
-**Let luck be the wind at your back. Twist fate’s threads to your favor and navigate the chaos of chance with a charmed smile.**
-
 `primary Attribute: Charisma (CHA)`
 
+
+### Classes:
+- *Trickster*
+- *Bard*
+
+### Trickster:
+**Let luck be the wind at your back. Twist fate’s threads to your favor and navigate the chaos of chance with a charmed smile.**
+
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Fortune's Favor*
+- *Rule of Cool*
+
+### Bard:
+**Thementext.**
+
+### Core Abilities
+- *Bardic Inspiration*
+- *Bardic College / Tales / Jack of all trades*
+
+## Grave
+
+**Command the chilling touch of the grave. Raise legions from their eternal slumber and wield the dark arts to control life and death.**
+
+`primary Attribute: Intelligence (INT)`
+
+### Classes:
+- *Monk*
+- *Mystic*
+
+### Necromancer:
+**TBD**
+
+### Core Abilities
+- *Raise Undead*
+- *Bonecraft*
+
+### Death Knight:
+**Thementext.**
+
+### Core Abilities
+- *Aspect of Death*
+- *Runeforging*
 
 ## Mind
 
@@ -65,11 +126,23 @@
 
 `primary Attribute: Wisdom (WIS)`
 
+### Classes:
+- *Monk*
+- *Mystic*
+
+### Monk:
+**TBD**
+
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Martial Arts*
+- *Ki Mastery*
+
+### Mystic:
+**Thementext.**
+
+### Core Abilities
+- *Psionics*
+- *Mystic Order*
 
 ## Nature
 
@@ -77,23 +150,26 @@
 
 `primary Attribute: Wisdom (WIS)`
 
-### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+### Classes:
+- *Druid*
+- *Shaman*
 
-## Necromancy
-
-**Command the chilling touch of the grave. Raise legions from their eternal slumber and wield the dark arts to control life and death.**
-
-`primary Attribute: Intelligence (INT)`
+### Druid:
+**TBD**
 
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Wild Shape*
+- *Druid Order*
+
+### Shaman:
+**Thementext.**
+
+### Core Abilities
+- *Totemic Mastery*
+- *Elemental Pact*
+
+
+
 
 ## Sorcery
 
@@ -101,11 +177,23 @@
 
 `primary Attribute: Intelligence (INT)`
 
+### Classes:
+- *Wizard*
+- *Spellsword*
+
+### Wizard:
+**TBD**
+
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Wild Magic*
+- *Sorcery Points*
+
+### Spellsword:
+**Thementext.**
+
+### Core Abilities
+- *Arcane Warrior*
+- *School*
 
 ## Tracking
 
@@ -113,11 +201,23 @@
 
 `primary Attribute: Dexterity (DEX)`
 
+### Classes:
+- *Hunter*
+- *Beastmaster*
+
+### Hunter:
+**TBD**
+
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Favored Enemy*
+- *Hunter's Tenet*
+
+### Beastmaster:
+**Thementext.**
+
+### Core Abilities
+- *Companion*
+- *Beast Bond*
 
 ## Valor
 
@@ -125,8 +225,20 @@
 
 `primary Attribute: Strength (STR)`
 
+### Classes:
+- *Knight*
+- *Warlord*
+
+### Knight:
+**TBD**
+
 ### Core Abilities
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
-- *(Additional Core Ability to be determined)*
+- *Trusted Steed*
+- *Knightly Order*  https://www.dandwiki.com/wiki/Knight_(5e_Class)
+
+### Warlord:
+**Thementext.**
+
+### Core Abilities
+- *Tactical Maneuvers*
+- *Leadership*
